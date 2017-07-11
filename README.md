@@ -209,7 +209,7 @@ Let's reload `index.html` and try out our new comment form. If we did everything
 
 ## Summary
 
-We've walked through creating a very basic template for a blog comments section, starting with the problematic and unsustainable practice of editing HTMl directly and ending with a nicely modular way of collecting comment data and displaying it on our blog post in a predictable, repeatable way.
+We've walked through creating a very basic template for a blog comments section, starting with the problematic and unsustainable practice of editing HTML directly and ending with a nicely modular way of collecting comment data and displaying it on our blog post in a predictable, repeatable way.
 
 ## Resources
 
